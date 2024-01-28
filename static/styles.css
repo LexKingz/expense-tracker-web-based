@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+#main{
+    padding: 10%;
+    width: 60%;
+    margin: auto !important;
+}
+#innerMain{
+    border: gray solid 2px;
+    padding: 6% 10% 0% 15%;
+    width: 40%;
+    margin: auto !important;
+    border-radius: 8px 8px 0px 0px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    margin: 10px 5px 10px 5px;
+    max-width: 90%;
+}
+
+button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 2px;
+    border-radius: 0px 5px;
+    font-size: 75%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
